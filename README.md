@@ -1,6 +1,6 @@
 <h1 align="center">Building a SOC + Honeynet in Azure (Live Traffic)</h1>
 
-![Cloud Honeynet / SOC](https://i.imgur.com/ZWxe03e.jpg)
+![Cloud Honeynet / SOC](https://github.com/user-attachments/assets/f7337bbd-7710-4ecb-b613-d50e0d772b75)
 
 <h1 align="center">Introduction</h1>
 
