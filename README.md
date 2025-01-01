@@ -14,7 +14,7 @@ In this project, I built a mini honeynet in Azure, integrated log sources into a
 
 ## Architecture Before Hardening / Security Controls
 
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
+![Architecture Diagram](https://github.com/user-attachments/assets/1f9ae2ba-3c59-485f-9db3-aacd840d4b05)
 
 ## Architecture After Hardening / Security Controls
 
