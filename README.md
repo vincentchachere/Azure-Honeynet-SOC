@@ -170,6 +170,48 @@ For the "AFTER" metrics, Network Security Groups were hardened to block all traf
 
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/9191fe32-6f7d-407c-adf6-d142eec3b234">
 
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/adb22bcd-0762-43cb-9086-b71eae89b0bd">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/0304a63b-fd56-4dfc-846a-e445dc37d882">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/02fa2f7f-df85-4d29-8590-8e1afd978b5e">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/eece8a88-2e0b-49d5-879e-d61ae5a72328">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/c49c2692-c8ca-49c1-bf29-e861f0882833">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/8295f7a1-5941-43b6-8134-d1add81b9c86">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
 </details>
 
 <details>
