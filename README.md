@@ -34,6 +34,86 @@ For the "BEFORE" metrics, all resources were initially deployed with public inte
 
 For the "AFTER" metrics, Network Security Groups were hardened to block all traffic except from the admin workstation. Additionally, all resources were secured using built-in firewalls and Private Endpoints.
 
+<details>
+
+<summary>
+
+### 🎯 Part 1: Create the Resources
+
+</summary>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/81e0c2ea-a477-4621-aa75-eb12793196cf">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/16d7657b-79b4-4a0d-96fc-b6de19a6f066">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/dc8c3ee8-38ff-4333-bec7-97c9d337e35c">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/4a0a75b8-cc2b-4c8f-9149-2410e2a5bb1a">
+
+</details>
+
+<details>
+
+<summary>
+
+### 🎯 Part 2: Configure Network Security Group
+
+</summary>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/a3710dbc-51ea-42dd-99af-d12295e35d10">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/60ada55d-bdf5-4987-96ec-06b0b95d8567">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/d15e4666-17fc-48fc-91a8-0b878ea4142c">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/6d7cbc7a-b32e-483f-aa27-6b404e41dd33">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/247c0106-4884-4df2-a843-6146613393fe">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/5bf17c39-4718-4503-8b6a-62262ba5e3ab">
+
+</details>
+
+<details>
+
+<summary>
+
+### 🎯 Part 3: Attack Maps Before Hardening / Security Controls
+
+</summary>
+
 ## Attack Maps Before Hardening / Security Controls
 ![NSG Allowed Inbound Malicious Flows](https://i.imgur.com/1qvswSX.png)<br>
 ![Linux Syslog Auth Failures](https://i.imgur.com/G1YgZt6.png)<br>
@@ -57,6 +137,16 @@ Stop Time 2023-03-16 17:04:29
 
 ```All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```
 
+</details>
+
+<details>
+
+<summary>
+
+### 🎯 Part 4: Metrics After Hardening / Security Controls
+
+</summary>
+
 ## Metrics After Hardening / Security Controls
 
 The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
@@ -70,6 +160,8 @@ Stop Time	2023-03-19 15:37
 | SecurityAlert            | 0
 | SecurityIncident         | 0
 | AzureNetworkAnalytics_CL | 0
+
+</details>
 
 <h1 align="center">Conclusion</h1>
 
