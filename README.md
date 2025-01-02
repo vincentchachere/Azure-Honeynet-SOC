@@ -110,6 +110,54 @@ For the "AFTER" metrics, Network Security Groups were hardened to block all traf
 
 <summary>
 
+### 🎯 Part 3:
+
+</summary>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/1555bb32-d1e8-4a5e-b0aa-bd01e60d3483">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/656ee0fb-8aa8-48c8-9576-4c768b77b810">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/71f29cf0-3f20-48d5-9fcb-da93ee57b4e5">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/8f248f3c-81b9-45db-aeb4-153c5443d1b1">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+</details>
+
+<details>
+
+<summary>
+
 ### 🎯 Part 3: Attack Maps Before Hardening / Security Controls
 
 </summary>
