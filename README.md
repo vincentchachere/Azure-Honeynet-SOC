@@ -42,7 +42,7 @@ For the "AFTER" metrics, Network Security Groups were hardened to block all traf
 
 </summary>
 
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/81e0c2ea-a477-4621-aa75-eb12793196cf">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/c40eeb3a-6612-4179-bf38-428ca0c8c033">
 
 <br>
 <br>
