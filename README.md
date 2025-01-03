@@ -158,13 +158,17 @@ For the "AFTER" metrics, Network Security Groups were hardened to block all traf
 <br>
 <br>
 
+[Microsoft SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/0cc5b46d-26d5-462d-b106-3e4709e28f4c">
 
 <br>
 <br>
 <br>
 
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/8155bf03-6e96-4e4f-a101-f0dc83d3aac4">
+[Write SQL Server Audit events to the Security log](https://learn.microsoft.com/en-us/sql/relational-databases/security/auditing/write-sql-server-audit-events-to-the-security-log?view=sql-server-ver16)
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/3b1ebd5c-c478-41e5-bcf8-3fc6aacd0131">
 
 <br>
 <br>
