@@ -264,13 +264,23 @@ For the "AFTER" metrics, Network Security Groups were hardened to block all traf
 <br>
 <br>
 
-<img width="800" alt="isolated" src="">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/9d29e9aa-e1e8-4c8f-8a5b-6bf6c6bf370b">
 
 <br>
 <br>
 <br>
 
-<img width="800" alt="isolated" src="">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/b3539d95-4ce0-4f22-8cb9-7e492ef6c150">
+
+</details>
+
+<details>
+
+<summary>
+
+### 🎯 Part 5:
+
+</summary>
 
 <br>
 <br>
@@ -296,7 +306,7 @@ For the "AFTER" metrics, Network Security Groups were hardened to block all traf
 
 <summary>
 
-### 🎯 Part 5: Attack Maps Before Hardening / Security Controls
+### 🎯 Part 6: Attack Maps Before Hardening / Security Controls
 
 </summary>
 
@@ -329,7 +339,7 @@ Stop Time 2023-03-16 17:04:29
 
 <summary>
 
-### 🎯 Part 6: Metrics After Hardening / Security Controls
+### 🎯 Part 7: Metrics After Hardening / Security Controls
 
 </summary>
 
