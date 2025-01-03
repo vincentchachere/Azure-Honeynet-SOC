@@ -206,6 +206,84 @@ For the "AFTER" metrics, Network Security Groups were hardened to block all traf
 
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/8295f7a1-5941-43b6-8134-d1add81b9c86">
 
+</details>
+
+<details>
+
+<summary>
+
+### 🎯 Part 4:
+
+</summary>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/8f84a869-0f4b-4086-92df-f67bd85ffc77">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/4a1841c7-66d7-498e-bd58-21f2e81f9048">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/0510951c-500a-4013-9547-3d3cd3748cab">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/3f151cbd-229e-417a-8138-7b4fa9610dce">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/facee424-f3bb-47c8-a379-679031d20fd1">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/1e9e53a9-9e47-4b3d-863c-0531e49c2787">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/1b45e566-81c5-412b-b01d-892cb317b066">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/5d593dee-da9a-4bcf-a706-18cfb3631a07">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
 <br>
 <br>
 <br>
@@ -218,7 +296,7 @@ For the "AFTER" metrics, Network Security Groups were hardened to block all traf
 
 <summary>
 
-### 🎯 Part 4: Attack Maps Before Hardening / Security Controls
+### 🎯 Part 5: Attack Maps Before Hardening / Security Controls
 
 </summary>
 
@@ -251,7 +329,7 @@ Stop Time 2023-03-16 17:04:29
 
 <summary>
 
-### 🎯 Part 5: Metrics After Hardening / Security Controls
+### 🎯 Part 6: Metrics After Hardening / Security Controls
 
 </summary>
 
