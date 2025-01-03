@@ -126,6 +126,8 @@ For the "AFTER" metrics, Network Security Groups were hardened to block all traf
 <br>
 <br>
 
+[SQL Server 2019 | Microsoft Evaluate Center](https://www.microsoft.com/en-us/evalcenter/download-sql-server-2019)
+
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/71f29cf0-3f20-48d5-9fcb-da93ee57b4e5">
 
 <br>
