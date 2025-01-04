@@ -346,9 +346,15 @@ https://github.com/vincentchachere/Sentinel-Maps-JSON/blob/main/geoip-summarized
 
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/deb006cb-d986-4217-b845-1e972e985c86">
 
-<br>
-<br>
-<br>
+</details>
+
+<details>
+
+<summary>
+
+### 🎯 Part 6:
+
+</summary>
 
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/1e5cbea5-78b7-42f8-b600-be3e2fbbee77">
 
@@ -394,9 +400,15 @@ https://github.com/vincentchachere/Sentinel-Maps-JSON/blob/main/geoip-summarized
 
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/0bd1e53b-9c31-43e2-95cf-4134e44c3d48">
 
-<br>
-<br>
-<br>
+</details>
+
+<details>
+
+<summary>
+
+### 🎯 Part 7:
+
+</summary>
 
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/26662dc0-efd4-4b81-a894-0ef8ba8bc28f">
 
@@ -476,41 +488,53 @@ https://github.com/vincentchachere/Sentinel-Maps-JSON/blob/main/geoip-summarized
 <br>
 <br>
 
-<img width="800" alt="isolated" src="">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/f84f9f74-1c31-46e1-8e6c-ae965f834880">
 
 <br>
 <br>
 <br>
 
-<img width="800" alt="isolated" src="">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/0ef126b6-d317-4909-999a-88ff82b7e41e">
 
 <br>
 <br>
 <br>
 
-<img width="800" alt="isolated" src="">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/5aa139ce-e200-4970-8fe2-555175f99bc7">
+
+</details>
+
+<details>
+
+<summary>
+
+### 🎯 Part 8:
+
+</summary>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/c4aab5c7-ffed-4c97-9bcf-85c3c564de4e">
 
 <br>
 <br>
 <br>
 
-<img width="800" alt="isolated" src="">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/94e96200-f23c-4e5e-9ff1-da4a822a51e8">
 
 <br>
 <br>
 <br>
 
-<img width="800" alt="isolated" src="">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/b6986ef8-6820-4124-bc0b-cd1a6c946bcd">
 
-<br>
-<br>
-<br>
+</details>
 
-<img width="800" alt="isolated" src="">
+<details>
 
-<br>
-<br>
-<br>
+<summary>
+
+### 🎯 Part 9:
+
+</summary>
 
 <img width="800" alt="isolated" src="">
 
@@ -556,7 +580,7 @@ https://github.com/vincentchachere/Sentinel-Maps-JSON/blob/main/geoip-summarized
 
 <summary>
 
-### 🎯 Part 6: Attack Maps Before Hardening / Security Controls
+### 🎯 Part 10: Attack Maps Before Hardening / Security Controls
 
 </summary>
 
@@ -589,7 +613,7 @@ Stop Time 2023-03-16 17:04:29
 
 <summary>
 
-### 🎯 Part 7: Metrics After Hardening / Security Controls
+### 🎯 Part 11: Metrics After Hardening / Security Controls
 
 </summary>
 
