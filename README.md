@@ -286,6 +286,190 @@ For the "AFTER" metrics, Network Security Groups were hardened to block all traf
 <br>
 <br>
 
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/e9b22a2f-f19e-4398-b54c-f1927b730fb2">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/5fe85286-66ea-439e-9584-2a2a3e4fc99f">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/7e1bd313-3660-4039-a192-74814b2f1452">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/7ed00101-498c-4657-ac9d-7c1218220dbb">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/72b78c3b-68bf-4b24-92fa-d69ecc8f8dbb">
+
+<br>
+<br>
+<br>
+
+Download this file onto your PC:
+
+https://github.com/vincentchachere/Sentinel-Maps-JSON/blob/main/geoip-summarized.csv
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/cbfde80f-a718-4da9-9b2e-ffcb459dc27c">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/41e3fdb8-e551-439f-8298-bb5dacff3b21">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/42122113-a671-428d-9c79-e61dbd847ec2">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/28393730-688f-4923-b575-cbc6957777d6">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/deb006cb-d986-4217-b845-1e972e985c86">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
 <img width="800" alt="isolated" src="">
 
 <br>
